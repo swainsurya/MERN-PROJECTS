@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.searchInput {
+  border: none;
+  box-shadow: 0px 0px 10px  black;
+  width: 270px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.note_date {
+  font-size: 15px;
+  color: gray;
+}
+
+.dropdownbox {
+  width: 50px;
+  height: 80px;
+  background-color: white;
+  position: absolute;
+  margin-bottom: 110px;
+  right: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.loginContainer {
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.login_inputs {
+  width: 100%;
+}
+
+.login_inputs input {
+  width: 70%;
+  height: 40px;
+  padding-left: 7px;
+  font-weight: bold;
+  font-size: 20px;
+  outline: none;
+  border: 2px solid blue;
+  border-radius: 5px;
+}
+
+.login_inputs button {
+  width: 70%;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.signuplink {
+  text-decoration: none;
+}
