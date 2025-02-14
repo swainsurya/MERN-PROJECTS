@@ -32,7 +32,7 @@ A real-time chat application built using React.js and Firebase Firestore Databas
 
 ## 📷 Screenshots
 
-[<img src="https://res.cloudinary.com/di53fuwst/image/upload/v1739517262/screenshots_2_juvcfa.png" />] [<img src="https://res.cloudinary.com/di53fuwst/image/upload/v1739517262/screenshots_mygnrl.png" />]
+[<img src="https://res.cloudinary.com/di53fuwst/image/upload/v1739517262/screenshots_2_juvcfa.png" height="540px" />] [<img src="https://res.cloudinary.com/di53fuwst/image/upload/v1739517262/screenshots_mygnrl.png" height="540px" />]
 
 ## 🏗️ Project Structure
 
