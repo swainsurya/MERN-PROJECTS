@@ -37,7 +37,7 @@ A modern YouTube clone built using React.js, YouTube API, Tailwind CSS, and Mate
 
 ## 📷 Screenshots
 
-![Home Page Screenshots] (https://res.cloudinary.com/di53fuwst/image/upload/v1739516257/previewimg_uhxd9j.png)
+<img src="https://res.cloudinary.com/di53fuwst/image/upload/v1739516257/previewimg_uhxd9j.png" />
 
 ## 🏗️ Project Structure
 
