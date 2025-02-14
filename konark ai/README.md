@@ -9,4 +9,4 @@ Here is an Image of this project
 This app is only compatible on phones 
 
 # I also deployed this web app on netlify 
-[link](https://konarkaibysurya.netlify.app/)
+[Live Preview Url](https://konarkaibysurya.netlify.app/)
