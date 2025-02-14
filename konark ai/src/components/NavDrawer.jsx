@@ -1,6 +1,6 @@
 import { GitHub, Image, Info, PortableWifiOffOutlined } from '@mui/icons-material';
 import { Button, IconButton, Stack } from '@mui/material';
-import { useNavigate } from 'react-router-dom';
+import { Link, useHref, useNavigate } from 'react-router-dom';
 import React from 'react'
 import { closeDrawer } from '../utils/closeDrawer';
 
@@ -24,7 +24,7 @@ const NavDrawer = () => {
                 </IconButton>
                 <IconButton sx={{display : "flex",flexDirection : "row", alignItems : "center", gap:"5px"}}>
                     <GitHub sx={{color : "#FF1AC5", fontSize : "20px"}} />
-                    <span style={{textTransform : "uppercase", color : "#fff", fontWeight : "bold", fontSize : "20px"}}>Github</span>
+                    <Link to={"https://github.com/swainsurya/MERN-PROJECTS/tree/main/konark%20ai"} style={{textTransform : "uppercase", color : "#fff", fontWeight : "bold", fontSize : "20px",textDecoration:"none"}}>Github</Link>
                 </IconButton>
             <span style={{color : "#fff", marginTop : "270px", position:"absolute", bottom : "10px",marginLeft:"60px"}}>&copy; konark ai</span>
             </Stack>

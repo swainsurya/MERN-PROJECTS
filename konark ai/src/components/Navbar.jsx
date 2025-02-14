@@ -6,7 +6,7 @@ const Navbar = () => {
     
     return (
         <Stack direction={"row"} width={"100%"} alignItems={"center"} justifyContent={"space-between"} px={1}>
-            <Typography variant='body2' sx={{ color: "#fff", fontWeight: "bold", fontSize: "20px" }}>
+            <Typography variant='body2' sx={{ color: "#fff", fontWeight: "bold", fontSize: "20px",cursor:"pointer" }}>
                 KONARK AI
             </Typography>
             <IconButton onClick={e =>{
